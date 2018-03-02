@@ -1,12 +1,19 @@
 # Skills
 # Donut design
-- skill: Donut design
-  description: Sprinkle art, icing design, eclair management, taste testing, donut/coffee pairing research
+- skill: Operating Systems
+  description: Windows XP, Vista, 7, 8, 10; Windows Server 2003, 2008, 2012 R2; Ubuntu, FreeBSD (FreeNAS); MacOS
 
 # Craft beer brewing
-- skill: Craft beer brewing
-  description: Hops inspection, brew testing, distribution management, bottle label design, festival and event management
+- skill: System Administration/Troubleshooting
+  description: Backups (SQL & Windows), Batch Scripting, Printer Queue troubleshooting (some hardware knowledge), SQL Server Management Studio, Active Directory (Server 2003)  
 
 # Family leadership
-- skill: Family leadership
-  description: Bread winning, conflict resolution, couch inspection, TV longevity testing
+- skill: Application Dev/Programming
+  description: SSRS Reporting Services, C#/.NET, C++, VBA (macros for Excel and Access), Python, NativeScript, Some Web Development (HTML, Javascript, JQuery)
+
+- skill: Application Specific
+  description: UPS Worldship 2017, Timeclock MTS
+
+- skill: Other Relevant Skills
+  description: Basic electronics repair, Thermal Printer Troubleshooting (direct or ribbon), Scanner Configuration
+  
