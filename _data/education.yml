@@ -11,7 +11,7 @@
 - degree: High School Diploma
   uni: Peabody High School
   year: 2013
-  award:  #you can have just one award as seen to the left.
+  awards:  #you can have just one award as seen to the left.
     - award: Boys' State 2012
     - award: Most Likely to Succeed
     - award: Beta Club Treasurer 
