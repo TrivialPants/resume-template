@@ -12,6 +12,7 @@
   uni: Peabody High School
   year: 2013
   awards:  #you can have just one award as seen to the left.
+    - award: 3.72/4.0 GPA
     - award: Boys' State 2012
     - award: Most Likely to Succeed
     - award: Beta Club Treasurer 
