@@ -1,8 +1,17 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: Beer for the World
-  role: Volunteer
-  year: 2008 &mdash; Present
-  url: http://beerfortheworld.com
-  summary: Organized fund drives and participated in fundraising events for the benefit of families in third world countries without proper access to malt beverages.
+- organization: Kelly Richardson
+  role: Senior Book Keeper - Alexander Thompson Arnold CPAs
+  year: 731-855-1097
+  summary: Trenton, TN
+  #url: http://beerfortheworld.com
+  #summary: Organized fund drives and participated in fundraising events for the benefit of families in third world countries without proper access to malt beverages.
+- organization: Thomas Reilly
+  role: IT Manager -- Parragon Publishing, Inc. (ADC Integrated Systems, Inc.)
+  year: 731-487-2031
+  summary: Milan, TN
+- organization: Todd McMillen
+  role: Database Programmer/Application Developer -- ADC Integrated Systems, Inc.
+  year: 901-327-9946
+  summary: Memphis, TN
