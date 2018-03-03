@@ -173,6 +173,28 @@
       <!-- end Associations -->
       {% endif %}
 
+
+      {% if site.resume_section_references %}
+      <!-- begin References  THIS IS A TEST addition-->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>References</h2>
+        </header>
+
+        {% for reference in site.data.references %}
+        <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
+          <h3 class="resume-item-title" itemprop="name">{% if reference.url %}<a href="{{ association.url }}">{{ reference.organization }}</a>{% else %}{{ reference.organization }}{% endif %}</h3>
+          <h4 class="resume-item-details" itemprop="description">{{ reference.role }} &bull; {{ reference.year }}</h4>
+          <p class="resume-item-copy">{{ reference.summary }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end References  THIS IS A TEST Addition-->
+      {% endif %}
+
+
       {% if site.resume_section_interests %}
       <!-- begin Interests -->
       <section class="content-section">
