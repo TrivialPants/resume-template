@@ -102,7 +102,7 @@
           <h2>Certifications</h2>
         </header>
 
-        {% for education in site.data.certification %}
+        {% for certification in site.data.certification %}
         <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
           <h3 class="resume-item-title" itemprop="name">{{ certification.uni }}</h3>
           <h4 class="resume-item-details group" itemprop="description">{{ certification.degree }} &bull; {{ certification.year }}</h4>
